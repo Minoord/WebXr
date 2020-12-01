@@ -1,5 +1,18 @@
-div{
+div.a{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: burlywood;
+    background-color: #986F51;
 } 
+div.b{
+    position: absolute;
+    left: 350px;
+    width: 300px;
+    height: 120px;
 
+}
+div.c{
+    position: absolute;
+    left: 900px;
+    width: 300px;
+    height: 120px;
+
+}
