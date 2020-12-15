@@ -4,41 +4,33 @@
     background-color: #986F51;
 }
 .Onderkantweb{
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #986F51;
 } 
 #lamkopje{
     padding-left: 20%;
-
-    margin-top: -8%;
-
-    margin-top: -8%;
-}
-#XRkopje{
-    padding-left: 50%;
-    margin-top: 5%;
-
     margin-top: -13%;
-
 }
 #XRkopje{
     padding-left: 50%;
     margin-top: 1%;
-
 }
+#Folkert{
+    padding-left: 50%;
+    margin-top: 20% ;
+}
+
 .Web {
     margin-left:25%;
     margin-top: 3%;
 }
 #Profiel{
-    padding-left:5% ;
+    padding-left:10% ;
+    margin-top: -13%;
 }
 #Contact{
     padding-left: 88%;
-
-    margin-top: -5%;
-
     margin-top: -8%;
-
 }
 #Talen{
     padding-left: 88%;
