@@ -62,3 +62,21 @@ const farrow = new Model('Paint Farrow.gltf');
 farrow.setPosition(4.570, 0, -3.857); 
 farrow.setScale(8.000, 8.000, 8.000 );
 farrow.setRotation(0, -109.767, 0);
+
+//FOTO1
+const foto1 = new XRImage('Folkert-de-Jong-00.jpg');
+foto1.setPosition(4.570, 1.680, -3.062); 
+foto1.setScale(1.000, 1.000, 1.000 );
+foto1.setRotation(0, -99.984, 0);
+
+//FOTO2
+const foto2 = new XRImage('Folkert-de-Jong-000.jpg');
+foto2.setPosition(3.129, 1.680, -1.037); 
+foto2.setScale(1.000, 1.000, 1.000 );
+foto2.setRotation(0, -176.144, 0);
+
+//FOTO3
+const foto3 = new XRImage('Folkert-de-Jong-01.jpg');
+foto3.setPosition(0.033, 1.680, -6.398); 
+foto3.setScale(1.000, 1.000, 1.000 );
+foto3.setRotation(0, 200.000, 0);
