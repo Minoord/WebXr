@@ -9,6 +9,36 @@ Box.setPosition(0.984, 1.184, -7.352);
 Box.setScale(4, 4, 4);
 Box.setRotation(0, -36.9, 0);
 
+const Box2 = new Model('assets/models/Box/Box.gltf');
+Box2.setPosition(4.273, 1.184, -0.411); 
+Box2.setScale(4, 4, 4);
+Box2.setRotation(0, -36.9, 0);
+
+const Box3 = new Model('assets/models/Box/Box.gltf');
+Box3.setPosition(4.492, 1.184, -1.076); 
+Box3.setScale(3, 3, 3);
+Box3.setRotation(0, -9.009, 0);
+
+const Box4 = new Model('assets/models/Box/Box.gltf');
+Box4.setPosition(5.167, 1.184, -2.028); 
+Box4.setScale(3, 3, 3);
+Box4.setRotation(0, -9.009, 0);
+
+const Box5 = new Model('assets/models/Box/Box.gltf');
+Box5.setPosition(5.563, 0, -3.968); 
+Box5.setScale(3, 3, 3);
+Box5.setRotation(0, -9.009, 0);
+
+const Box6 = new Model('assets/models/Box/Box.gltf');
+Box6.setPosition(-0.739, 0, -6.056); 
+Box6.setScale(3.5, 3.5, 3.5);
+Box6.setRotation(0, 109.010, 0);
+
+const Box7 = new Model('assets/models/Box/Box.gltf');
+Box7.setPosition(-0.167, 0, -6.260); 
+Box7.setScale(3.5, 3.5, 3.5);
+Box7.setRotation(0, 109.010, 0);
+
 //Tafels
 const tafel = new Model('assets/models/Table/Table.gltf');
 tafel.setPosition(-0.045, 0.000, -6.701); 
@@ -50,6 +80,12 @@ const farrow = new Model('assets/models/Paint Farrow/Paint Farrow.gltf');
 farrow.setPosition(4.570, 0, -3.857); 
 farrow.setScale(8.000, 8.000, 8.000 );
 farrow.setRotation(0, -109.767, 0);
+
+//FARROW
+const farrow2 = new Model('assets/models/Paint Farrow/Paint Farrow.gltf');
+farrow2.setPosition(-1.400, 1.176, -6.316); 
+farrow2.setScale(8.000, 8.000, 8.000);
+farrow2.setRotation(0, -80.059, 0);
 
 //FOTO1
 const foto1 = new XRImage('Folkert-de-Jong-00.jpg');
